@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kira Ateliê</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f9f9f9;
+        }
+        header {
+            background-color: #ff69b4;
+            padding: 20px;
+            color: white;
+            font-size: 24px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #ff69b4;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Kira Ateliê
+    </header>
+    <div class="container">
+        <h2>Bem-vindo ao Kira Ateliê!</h2>
+        <p>Peças artesanais feitas com amor e carinho.</p>
+        <img src="https://via.placeholder.com/600x300" alt="Exemplo de produto">
+        <p>Descubra nossas criações únicas e exclusivas!</p>
+        <a href="#" class="button">Ver Produtos</a>
+    </div>
+</body>
+</html>
